@@ -207,6 +207,7 @@
   align-items: center;
   margin-top: 100px;
   height: 890px;
+
 }
 
 .feynman__title {
@@ -260,7 +261,7 @@
   color: white;
   display: flex;
   flex-direction: column;
-  margin: 90px auto;
+
   overflow: hidden;
   position: relative;
 
